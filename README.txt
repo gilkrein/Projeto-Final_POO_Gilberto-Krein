@@ -1,6 +1,6 @@
 Trabalho Final POO
 
-Aluno: Gilberto Krein Filho
+Gilberto Krein
 
 Ambiente de desenvolvimento:
 
